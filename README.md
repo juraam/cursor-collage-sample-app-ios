@@ -6,10 +6,7 @@
 
 Watch the demo video to see the app in action:
 
-<video width="250px" controls>
-  <source src="assets/sample_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="assets/sample.gif" width="200px" />
 
 ## Features
 
