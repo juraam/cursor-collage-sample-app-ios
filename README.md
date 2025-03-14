@@ -1,5 +1,18 @@
 # Photo Collage Editor
 
+## Demo
+
+Watch the demo video to see the app in action:
+
+https://github.com/yourusername/photoeditor-cursor/assets/sample_video.mp4
+
+The video demonstrates key features including:
+- Adding and arranging photos
+- Adding and editing text
+- Adjusting borders and removing backgrounds
+- Using undo/redo functionality
+- Exporting the final collage
+
 A SwiftUI-based photo collage editor developed with the assistance of Cursor AI in approximately 4 hours. This project serves as an educational example of building a modern iOS application using SwiftUI.
 
 ## Overview
